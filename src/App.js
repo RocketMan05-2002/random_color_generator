@@ -6,6 +6,7 @@ const App = () => {
   return (
     <div>
       <RandomColor />
+      {/* additional featues */}
     </div>
   )
 }
